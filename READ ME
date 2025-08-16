@@ -1,0 +1,9 @@
+Vocab Trainer
+
+The idea behind this project is to create an application that helps train the user on new vocabulary on a daily basis. The user can see the word, definition and examples of how the word is used. The application would also display the user's daily progress and library of words that have been learned.
+
+Additional functions we would like to add (in the future)
+
+a. a foreign language learner
+
+b. Importing articles or the news so the user can practice reading comprehension
